@@ -1,0 +1,1 @@
+module.exports = require("npm:notifyjs@1.2.8/notify.js");

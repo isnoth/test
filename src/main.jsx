@@ -1,7 +1,8 @@
 import React        from 'react';
 import ReactDOM     from 'react-dom';
+import PomodarioApp   from './components/pomodario.jsx!jsx';      
 
 ReactDOM.render(
-  <p>hello world</p>,
+  <PomodarioApp/>,
   document.getElementById('test')
 );
